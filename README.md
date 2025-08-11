@@ -1,5 +1,5 @@
 # PROGRAMACION DINAMICA
 -------------------------------------------
-Nicolas Jimenez
-Nicolas Sanchez
-Valentina Montenegro
+# Nicolas Jimenez
+# Nicolas Sanchez
+# Valentina Montenegro
