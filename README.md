@@ -1,1 +1,5 @@
-# estructura-de-datos-no-lineales-algoritomos
+# PROGRAMACION DINAMICA
+-------------------------------------------
+Nicolas Jimenez
+Nicolas Sanchez
+Valentina Montenegro
